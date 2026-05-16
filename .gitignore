@@ -9,6 +9,9 @@ sources/
 delivery/
 *.pdf
 
+# Published package keeps only the root changelog.
+references/CHANGELOG.md
+
 # Local virtual environments.
 .venv/
 venv/
