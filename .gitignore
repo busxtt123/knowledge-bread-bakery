@@ -1,0 +1,14 @@
+.skill-runtime/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local production workspaces and generated outputs.
+workspace/
+sources/
+delivery/
+*.pdf
+
+# Local virtual environments.
+.venv/
+venv/
